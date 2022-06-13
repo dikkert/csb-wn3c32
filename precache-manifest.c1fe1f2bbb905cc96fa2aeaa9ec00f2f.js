@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc5d4a0be91d290324ddd9e3931e35b3",
+    "revision": "16f5b219a8157e6bd07fec7674d712ed",
     "url": "https://dikkert.github.io/csb-wn3c32/index.html"
   },
   {
-    "revision": "6c14175876d01ddd2f97",
+    "revision": "5b6af991601c31dbefa1",
     "url": "https://dikkert.github.io/csb-wn3c32/static/css/main.f456b287.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://dikkert.github.io/csb-wn3c32/static/js/2.1cf23e7e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6c14175876d01ddd2f97",
-    "url": "https://dikkert.github.io/csb-wn3c32/static/js/main.bfba883f.chunk.js"
+    "revision": "5b6af991601c31dbefa1",
+    "url": "https://dikkert.github.io/csb-wn3c32/static/js/main.dc3db3ea.chunk.js"
   },
   {
     "revision": "398d6649be9e8ed765b6",
