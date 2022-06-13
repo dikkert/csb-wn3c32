@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-wn3c32/static/css/main.2e659a1c.chunk.css",
-    "main.js": "https://.github.io/csb-wn3c32/static/js/main.03ca1d70.chunk.js",
-    "main.js.map": "https://.github.io/csb-wn3c32/static/js/main.03ca1d70.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-wn3c32/static/js/runtime-main.5cbf99c1.js",
-    "runtime-main.js.map": "https://.github.io/csb-wn3c32/static/js/runtime-main.5cbf99c1.js.map",
-    "static/js/2.1cf23e7e.chunk.js": "https://.github.io/csb-wn3c32/static/js/2.1cf23e7e.chunk.js",
-    "static/js/2.1cf23e7e.chunk.js.map": "https://.github.io/csb-wn3c32/static/js/2.1cf23e7e.chunk.js.map",
-    "index.html": "https://.github.io/csb-wn3c32/index.html",
-    "precache-manifest.015b91f7da6cc7861920e2cf715340ff.js": "https://.github.io/csb-wn3c32/precache-manifest.015b91f7da6cc7861920e2cf715340ff.js",
-    "service-worker.js": "https://.github.io/csb-wn3c32/service-worker.js",
-    "static/css/main.2e659a1c.chunk.css.map": "https://.github.io/csb-wn3c32/static/css/main.2e659a1c.chunk.css.map",
-    "static/js/2.1cf23e7e.chunk.js.LICENSE.txt": "https://.github.io/csb-wn3c32/static/js/2.1cf23e7e.chunk.js.LICENSE.txt"
+    "main.css": "https://dikkert.github.io/csb-wn3c32/static/css/main.f456b287.chunk.css",
+    "main.js": "https://dikkert.github.io/csb-wn3c32/static/js/main.bfba883f.chunk.js",
+    "main.js.map": "https://dikkert.github.io/csb-wn3c32/static/js/main.bfba883f.chunk.js.map",
+    "runtime-main.js": "https://dikkert.github.io/csb-wn3c32/static/js/runtime-main.e1c7d54c.js",
+    "runtime-main.js.map": "https://dikkert.github.io/csb-wn3c32/static/js/runtime-main.e1c7d54c.js.map",
+    "static/js/2.1cf23e7e.chunk.js": "https://dikkert.github.io/csb-wn3c32/static/js/2.1cf23e7e.chunk.js",
+    "static/js/2.1cf23e7e.chunk.js.map": "https://dikkert.github.io/csb-wn3c32/static/js/2.1cf23e7e.chunk.js.map",
+    "index.html": "https://dikkert.github.io/csb-wn3c32/index.html",
+    "precache-manifest.c8334c200e91e2ba415f073941435f7f.js": "https://dikkert.github.io/csb-wn3c32/precache-manifest.c8334c200e91e2ba415f073941435f7f.js",
+    "service-worker.js": "https://dikkert.github.io/csb-wn3c32/service-worker.js",
+    "static/css/main.f456b287.chunk.css.map": "https://dikkert.github.io/csb-wn3c32/static/css/main.f456b287.chunk.css.map",
+    "static/js/2.1cf23e7e.chunk.js.LICENSE.txt": "https://dikkert.github.io/csb-wn3c32/static/js/2.1cf23e7e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5cbf99c1.js",
+    "static/js/runtime-main.e1c7d54c.js",
     "static/js/2.1cf23e7e.chunk.js",
-    "static/css/main.2e659a1c.chunk.css",
-    "static/js/main.03ca1d70.chunk.js"
+    "static/css/main.f456b287.chunk.css",
+    "static/js/main.bfba883f.chunk.js"
   ]
 }
